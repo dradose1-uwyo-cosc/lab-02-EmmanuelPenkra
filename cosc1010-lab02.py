@@ -19,7 +19,7 @@ print()
 hello_message = ""
 print("Your code here")
 
-# Assign the string "cowboy joe" to a variable, and print that variable with title casing
+# Assign the string "cowboy JZoe" to a variable, and print that variable with title casing
 print("Your code here")
 
 # Complete the following f-string print message 
