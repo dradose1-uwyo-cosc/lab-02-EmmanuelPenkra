@@ -1,6 +1,6 @@
 # [Emmanuel Gyekye Atta-Penkra]
 ## [Lab02]
-## [Submission date: 09/16/24]
+## [Submission date: 09/18/24]
 ## Worked with/sources 
 * example
 * example
